@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 About Me:
 
-- 🌱 I’m currently exploring **Flutter Android Development**.
+- 🌱 I’m currently exploring **Flutter App Development**.
 - 💼 I'm in my **5th semester of Computer Science** at university.
 - 🔭 I’m actively working on Flutter projects.
 - 🎯 My goal is to become a proficient mobile app developer.
