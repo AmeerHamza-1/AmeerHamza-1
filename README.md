@@ -5,10 +5,6 @@
 <h2 align="center">Hi there! 👋</h2>
 <h3 align="center">I'm Ameer Hamza, a Flutter Developer 🚀</h3>
 
----
-
-### 🌟 Flutter Developer | Computer Science Student | Passionate Learner
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
